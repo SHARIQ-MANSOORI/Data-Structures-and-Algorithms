@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Time Complexity - O(n^2) 
+// Space Complexity - O(1)
 int main(){
     vector<int> nums = {3,2,4,1,2,4,7,3};
     for(int i = 0 ; i < nums.size() ; i++){
