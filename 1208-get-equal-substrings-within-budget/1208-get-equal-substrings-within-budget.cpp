@@ -10,7 +10,7 @@ public:
         while(r < n){
             cost += abs(s[r] - t[r]);
 
-            while(cost > maxCost){
+            if(cost > maxCost){
                 cost -= abs(s[l] - t[l]);
                 l++;
             }
