@@ -11,25 +11,24 @@
  */
 class Solution {
 public:
+    int ans = 0; // global variale
     int height(TreeNode* root){
         if(root == NULL) return 0;
 
         int lh = height(root->left);
         int rh = height(root->right);
 
+        // calculate diameter
+        int dia = lh+rh;
+        ans = max(ans , lh+rh);
+
         return max(lh,rh)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL) return 0;
-        // left dia
-        int leftD = diameterOfBinaryTree(root->left);
-        // right dia
-        int rightD = diameterOfBinaryTree(root->right);
-        // root dia
-        int rootD = height(root->left) + height(root->right);
 
+        height(root);
         
-        return max(max(leftD , rightD) , rootD);
+        return ans;
 
         
     }
