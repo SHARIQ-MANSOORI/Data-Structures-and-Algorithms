@@ -40,6 +40,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
@@ -63,4 +64,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
