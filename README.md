@@ -49,6 +49,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -84,4 +85,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
