@@ -51,6 +51,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
