@@ -45,12 +45,14 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
@@ -97,6 +99,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
