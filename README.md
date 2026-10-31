@@ -11,6 +11,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -27,6 +28,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -34,6 +36,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0100-same-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -62,6 +65,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -89,4 +93,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
