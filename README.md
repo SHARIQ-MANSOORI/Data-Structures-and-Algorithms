@@ -42,6 +42,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
