@@ -47,6 +47,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
