@@ -67,6 +67,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
@@ -135,14 +136,17 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
