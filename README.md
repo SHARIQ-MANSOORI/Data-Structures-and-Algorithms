@@ -83,11 +83,13 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1759-count-number-of-homogenous-substrings](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2785-sort-vowels-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
+| [2785-sort-vowels-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## DP on Trees
 |  |
 | ------- |
