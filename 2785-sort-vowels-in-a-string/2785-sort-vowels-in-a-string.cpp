@@ -22,8 +22,10 @@ public:
 
         // sort and reverse temp
 
-        sort(temp.begin(), temp.end());
-        reverse(temp.begin(), temp.end());
+        sort(temp.begin(), temp.end(), [&](char& a , char& b){
+                return a > b;
+        } ) ;
+        // reverse(temp.begin(), temp.end());
 
         for (int i = 0; i < n; i++) {
             if (isvowel(s[i])) {
