@@ -72,6 +72,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0038-count-and-say](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
