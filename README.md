@@ -77,6 +77,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
@@ -158,6 +159,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
