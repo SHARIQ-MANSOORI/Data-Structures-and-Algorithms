@@ -57,6 +57,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -67,6 +68,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
@@ -142,6 +144,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Dynamic Programming
