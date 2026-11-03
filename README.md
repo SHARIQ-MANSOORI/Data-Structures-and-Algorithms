@@ -14,6 +14,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +57,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +95,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## DP on Trees
