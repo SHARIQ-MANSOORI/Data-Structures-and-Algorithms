@@ -49,6 +49,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -66,6 +67,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
@@ -182,4 +184,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
