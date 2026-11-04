@@ -13,6 +13,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -23,6 +24,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -34,6 +36,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -44,6 +47,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0110-balanced-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
