@@ -204,4 +204,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
