@@ -5,7 +5,7 @@ public:
         if (n == 0)
             return 0;
 
-        string temp = "";
+     
         int sign = 1;
         int i = 0 ;
 
@@ -14,11 +14,9 @@ public:
             i++;
         }
 
-        while(i < n &&( s[i] == '+' || s[i] == '-')){
+        if(i < n &&( s[i] == '+' || s[i] == '-')){
             if(s[i] == '-'){
                 sign = -1;
-            }else{
-                sign = 1;
             }
             i++;
         }
