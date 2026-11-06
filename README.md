@@ -69,6 +69,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
+| [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -159,6 +160,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
@@ -187,6 +189,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1544-make-the-string-great](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 ## Longest Increasing Subsequence
 |  |
@@ -233,4 +236,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
