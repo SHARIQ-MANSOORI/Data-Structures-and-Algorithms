@@ -72,6 +72,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2785-sort-vowels-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## DP on Trees
 |  |
@@ -142,6 +144,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
