@@ -177,6 +177,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
