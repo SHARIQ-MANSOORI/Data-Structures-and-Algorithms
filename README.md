@@ -62,6 +62,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
