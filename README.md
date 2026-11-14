@@ -171,6 +171,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -288,4 +289,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
