@@ -179,6 +179,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0876-middle-of-the-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
@@ -305,6 +306,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0237-delete-node-in-a-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
