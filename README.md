@@ -167,6 +167,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -301,6 +302,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
