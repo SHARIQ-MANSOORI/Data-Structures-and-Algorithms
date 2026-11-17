@@ -134,6 +134,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
@@ -171,6 +172,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0061-rotate-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
@@ -267,6 +269,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
@@ -287,6 +290,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -308,6 +312,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0138-copy-list-with-random-pointer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
