@@ -98,6 +98,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -127,6 +128,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
@@ -165,6 +167,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
