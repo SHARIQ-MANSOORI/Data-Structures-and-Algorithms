@@ -77,6 +77,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,6 +169,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
@@ -182,6 +184,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
