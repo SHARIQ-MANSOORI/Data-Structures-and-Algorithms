@@ -80,6 +80,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
@@ -98,6 +99,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
@@ -152,6 +154,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
