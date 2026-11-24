@@ -74,6 +74,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0962-maximum-width-ramp](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0962-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -156,16 +157,19 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
