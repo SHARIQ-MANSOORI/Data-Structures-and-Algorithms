@@ -63,6 +63,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -223,6 +224,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
@@ -360,4 +362,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
