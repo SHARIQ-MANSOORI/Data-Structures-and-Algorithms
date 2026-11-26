@@ -62,6 +62,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
@@ -198,6 +199,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
