@@ -76,6 +76,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -159,6 +160,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
@@ -241,6 +243,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Dynamic Programming
