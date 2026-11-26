@@ -66,6 +66,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -151,6 +152,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -203,6 +205,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
