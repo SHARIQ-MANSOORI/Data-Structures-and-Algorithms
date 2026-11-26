@@ -69,6 +69,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
@@ -207,6 +208,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
