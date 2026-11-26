@@ -68,6 +68,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
@@ -96,6 +97,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -149,6 +151,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -179,6 +182,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 ## Prefix Sum
@@ -228,6 +232,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -277,6 +282,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
