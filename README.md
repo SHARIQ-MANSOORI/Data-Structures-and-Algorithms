@@ -67,6 +67,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +97,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0013-roman-to-integer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -382,4 +384,8 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
