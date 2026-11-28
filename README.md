@@ -103,6 +103,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0142-linked-list-cycle-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0058-length-of-last-word](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
@@ -158,6 +160,7 @@ A comprehensive collection of Data Structures and Algorithms implemented in C++ 
 | [0088-merge-sorted-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/SHARIQ-MANSOORI/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
